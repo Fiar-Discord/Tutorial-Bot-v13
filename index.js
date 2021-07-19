@@ -11,4 +11,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('ODY2ODE0MjMwMzQ3MjUxNzEy.YPYBqQ.sC1UsE5oUiKIJK_dTwTWIWDDixY');
+client.login('bot_token_mu'); //replace bot_token_mu dengan bot token mu 
